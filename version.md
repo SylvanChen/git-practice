@@ -1,3 +1,6 @@
+# v1.0.2
+> 使用 gitignore
+
 # v1.0.1
 > 修复 githooks 脚本
 
